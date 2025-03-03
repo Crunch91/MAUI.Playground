@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorHybridAndWebApp", "MauiBlazorHybridAndWebApp\MauiBlazorHybridAndWebApp.csproj", "{D993C5CB-36D4-4EDB-9106-8BA7DAF546E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorHybridAndWebApp.Shared", "MauiBlazorHybridAndWebApp.Shared\MauiBlazorHybridAndWebApp.Shared.csproj", "{74F1E999-C35E-4408-ABEC-1EF6A8A42306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorHybridAndWebApp.Web", "MauiBlazorHybridAndWebApp.Web\MauiBlazorHybridAndWebApp.Web.csproj", "{E7B3A4E1-F26B-422B-839E-3360EF7D1706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D993C5CB-36D4-4EDB-9106-8BA7DAF546E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D993C5CB-36D4-4EDB-9106-8BA7DAF546E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D993C5CB-36D4-4EDB-9106-8BA7DAF546E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D993C5CB-36D4-4EDB-9106-8BA7DAF546E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F1E999-C35E-4408-ABEC-1EF6A8A42306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F1E999-C35E-4408-ABEC-1EF6A8A42306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F1E999-C35E-4408-ABEC-1EF6A8A42306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F1E999-C35E-4408-ABEC-1EF6A8A42306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B3A4E1-F26B-422B-839E-3360EF7D1706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B3A4E1-F26B-422B-839E-3360EF7D1706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B3A4E1-F26B-422B-839E-3360EF7D1706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B3A4E1-F26B-422B-839E-3360EF7D1706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
